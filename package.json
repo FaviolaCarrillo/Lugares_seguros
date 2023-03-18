@@ -1,0 +1,26 @@
+{
+  "name": "lugares_seguros",
+  "version": "1.0.0",
+  "description": "Proyecto lugares seguros",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev","nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaviolaCarrillo/Lugares_seguros.git"
+  },
+  "author": "Faviola Carrillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaviolaCarrillo/Lugares_seguros/issues"
+  },
+  "homepage": "https://github.com/FaviolaCarrillo/Lugares_seguros#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
