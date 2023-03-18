@@ -4,7 +4,7 @@
   "description": "Proyecto lugares seguros",
   "main": "index.js",
   "scripts": {
-    "test": "dev","nodemon index.js"
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
